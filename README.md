@@ -3,7 +3,6 @@
 
 ## 2주차 
 
-- GIT 설치 
+- GIT 설치 및 연동
 - Python 설치
 - Jupyter Notebook 설치
- 
